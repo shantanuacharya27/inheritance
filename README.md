@@ -1,0 +1,2 @@
+# inheritance
+my first code
